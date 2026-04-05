@@ -17,10 +17,10 @@ To properly use this, you need to:
 
 2: If the time series exhibits properties of positive autocorrelation, you can apply it through interactive brokers API. 
 
-3: As this algorithm has a tick rate of about 0.1 seconds the gains are very minor so you would need huge liquidity, admittedly I used a paper trading account as I am a university student and not a billionaire. 
+3: As this algorithm has a tick rate of about 1 second the gains are very minor so you would need huge liquidity, admittedly I used a paper trading account as I am a university student and not a billionaire. 
 
 Overall: The biggest short coming of the algorithm is that it uses yahoo finance data which has a 20-minute delay. Meaning 
-that all the gains that I did manage to get were from pure luck. 
+that all the gains that I did manage to get were from pure luck.
 
 Finally: This algorithm was built out of academic curiosity NOT because I thought I could compete with firms like Hudson-river trading. 
 
