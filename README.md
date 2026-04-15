@@ -3,7 +3,7 @@ This a collection of the projects outlined in my CV. Please explore. If you have
 
 
 Binomial Tree (Excel): 
-This was made to price both American and European options for the S&P 100 index. I am aware that the Black-Scholes model is optimal for European options, due to their fixed exercise timing and so that will be my next project (regarding derivatives pricing). I used OEX, XEO and VIX data from the Chicago Board Options Exchange, the dividend yield comes from Bloomberg. The time to maturity is represented in years. For this example I used a 42 day maturity.
+This was made to price both American options for the S&P 100 index. I used OEX, XEO and VIX data from the Chicago Board Options Exchange, the dividend yield comes from Bloomberg. The time to maturity is represented in years. For this example I used a 42 day maturity.
 
 K-means (Python): 
 This project uses PWT.11 data. I was inspired to use a k-means clustering for my econometrics project after reading 'Advanced Statistics for Researchers'. This algorithm is part of 4500-word econometric analysis on the determinants of economic growth. We used a linear regression model based on an augmented Solow growth model (includes human capital). The purpose of this algorithm was to identify outliers for robustness checks with regards to the regression models. Which it did successfully, clustering India, China and the United States together. However the results overall were underwhelming, I believe this was due to the inclusion of RGDP per capita and Population within the features, leading to data leakage. Furthermore, I believe we could improve on this by using fertility rates as a proxy for GDP-per capita as the two have a very strong negative correlation. 
