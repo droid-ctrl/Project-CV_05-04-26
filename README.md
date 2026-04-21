@@ -23,8 +23,3 @@ Overall: The biggest short coming of the algorithm is that it uses yahoo finance
 that all the gains that I did manage to get were from pure luck.
 
 Finally: This algorithm was built out of academic curiosity NOT because I thought I could compete with firms like Hudson-river trading. 
-
-
-
-A Note on Methodology: 
-All these projects are AI assisted. Though each project is associated with around 30-60 prompts depending on the task. Since building these I have experienced multiple issues with AI especially with python, mainly emerging from a lack of context and bad debugging (also on my part). To combat this, I have re-enrolled in DataCamp and have chosen the associate data science career track. I will be finishing this course by the end of May 2026.
